@@ -1,0 +1,26 @@
+{
+  "name": "chatgpt-free-proxi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidviziteu/llm-routing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidviziteu/llm-routing/issues"
+  },
+  "homepage": "https://github.com/davidviziteu/llm-routing#readme",
+  "description": "",
+  "dependencies": {
+    "@chatgpt-proxy/chatgpt": "^3.7.0",
+    "@google/genai": "^1.33.0",
+    "chatgpt": "^5.2.5",
+    "dotenv": "^17.2.3",
+    "puppeteer": "^24.33.0"
+  }
+}
